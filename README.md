@@ -1,0 +1,1 @@
+# phpcs-autoload-bug-demo
